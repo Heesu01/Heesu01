@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Heesu01%20GitHub%20Profile&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:72EDF2,100:5151E5&height=300&section=header&fontColor=FFFFFF&text=Heesu's%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </p>
 
 
@@ -26,4 +26,8 @@
 </div>
 <div>
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesu01&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+</div>
+
+<div align="center" style="margin-top: 30px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F4FF,50:87CEEB,100:1E90FF&height=100&section=footer" />
 </div>
