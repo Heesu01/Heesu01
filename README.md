@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=;Wellcome+to+my+Github!;Enjoy+the+show!&font=Fira%20Code&center=true&width=380&height=50&duration=500&pause=1000&color=F09794" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=;Wellcome+to+my+Github!;Enjoy+the+show!&font=Fira%20Code&center=true&width=380&height=50&duration=500&pause=1000&color=72EDF2" alt="Example Usage - README Typing SVG">
 </p>
 
 <br />
@@ -57,7 +57,7 @@
 
 <div align="center">
     
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeesu01%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeesu01%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%72EDF2&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
