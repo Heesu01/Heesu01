@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=;Wellcome+to+my+Github!;Enjoy+the+show!&font=Fira%20Code&center=true&width=380&height=50&duration=500&pause=1000&color=72EDF2" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=;Wellcome+to+my+Github!;Enjoy+the+show!&font=Fira%20Code&center=true&width=380&height=50&duration=500&pause=1000&color=5151E5" alt="Example Usage - README Typing SVG">
 </p>
 
 <br />
@@ -12,17 +12,22 @@
 
 <div align=center>
     <h1> 👾 Skills 👾 </h1>
-
-![Html](https://img.shields.io/badge/Html-E34F26?style=plastic-square&logo=html&logoColor=white)
-![Css](https://img.shields.io/badge/Css-A9D1FB?style=plastic-square&logo=css&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=Javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=plastic-square&logo=react&logoColor=61DAFB)
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/styledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=black" alt="styled-components"/>
+<br/>
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 
-![Python](https://img.shields.io/badge/Python-F9DA8F?style=plastic-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-EC625C?style=plastic-square&logo=c&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white">
+
+<br/>
+<img src="https://img.shields.io/badge/Adobe InDesign-FF3366?style=flat-square&logo=Adobe InDesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 </div>
 
 <br />
@@ -55,11 +60,14 @@
 <br />
 <br />
 
+    
 <div align="center">
     
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeesu01%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%72EDF2&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeesu01%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%5151E5&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+
 
 <div align="center" style="margin-top: 30px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:72EDF2,100:5151E5&height=100&section=footer" />
