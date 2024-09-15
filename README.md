@@ -51,11 +51,21 @@
 <br />
 <br />
 
-<div align="center">
-    <h1> 👾 블로그 👾 </h1>
-    https://heesu01.tistory.com
-</div>
+<div align="center" style="margin-top: 15px;">
 
+<h1> 👾 SNS 👾 </h1>
+<a href="https://heesu01.tistory.com" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
+    </a>
+
+<a href="https://www.instagram.com/Heesu01/" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+    <a href="mailto:rulru0413@mju.ac.kr" style="text-decoration: none; margin: 0 8px;">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    </a>
+            
+</div>
 
 <br />
 <br />
