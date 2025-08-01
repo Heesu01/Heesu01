@@ -14,7 +14,7 @@
     
 <details>
     
-  <summary><h3>🗺️ 시장에 가면 | 내 주변 전통시장 AI 탐방 서비스 </h3> (25.06-25.07)</summary>
+  <summary><h3>📍 시장에 가면 | 내 주변 전통시장 AI 탐방 서비스 </h3> (25.06-25.07)</summary>
 
   **대회**: 2025 문화 디지털혁신 및 데이터 활용 공모전 **본선 진출**(6팀)  
   **역할**: 프론트엔드 개발 전담  
@@ -27,9 +27,8 @@
 
   🔗 [GitHub](https://github.com/Heesu01/market-gogo) | [Notion](https://www.notion.so/23228dd58f9480b19058c958dde54b67?source=copy_link) | [소개 영상](https://www.youtube.com/watch?v=9myBathNdwk)
 </details>
-
 <details>
-  <summary><h3>📊 두하이 (2025.01) | 사내 경험치 관리 웹앱</h3></summary>
+  <summary><h3>👑 두하이 | 사내 경험치 관리 웹앱</h3> (2025.01)</summary>
 
   🏆 블레이버스 앱 개발 경진대회 **최우수상 & 팀워크상 수상**  
   🤝 이후 **기업 요청으로 프리랜서 계약**, 사내에 정식 도입  
@@ -41,7 +40,36 @@
   - 레벨 및 경험치 시각화 대시보드  
   - 퀘스트 히스토리 / 마이페이지 / 공지 게시판  
 
-  🔗 [GitHub 저장소](https://github.com/Heesu01/DoHigh) | [Notion](https://www.notion.so/1a128dd58f9480c58b33ffa036f10703?v=16b28dd58f9481f19548000c34261a44&source=copy_link) | [소개영상](https://www.youtube.com/watch?v=OzDs2jGJPdc) | [관련기사](https://www.hellot.net/news/article.html?no=100806)
+  🔗 [GitHub](https://github.com/Heesu01/DoHigh) | [Notion](https://www.notion.so/1a128dd58f9480c58b33ffa036f10703?v=16b28dd58f9481f19548000c34261a44&source=copy_link) | [소개영상](https://www.youtube.com/watch?v=OzDs2jGJPdc) | [관련기사](https://www.hellot.net/news/article.html?no=100806)
+</details>
+<details>
+  <summary><h3>🌳 예산트리 | 서울시 예산 시각화 & 시민참여 플랫폼</h3> (2025.05)</summary>
+
+  **대회**: 2025 서울 열린데이터광장 공공데이터 활용 창업경진대회 출품작
+  **역할**: 기획 / UIUX 설계 / 프론트엔드 개발 전반  
+  **기술**: React, TypeScript, Styled-Components, Recharts, Axios, Netlify  
+
+  **주요 기능**  
+  - 분야별 예산 흐름 시각화 + 필터링  
+  - 행정예산 / 시민참여예산 이중 탐색 구조  
+  - 시민 제안 커뮤니티 기능 (공감, 댓글, 투표)  
+
+  🔗 [GitHub](https://github.com/Heesu01/YesanTree) | [Notion](https://www.notion.so/1f228dd58f94806bbf87e951eed7d7fb?v=16b28dd58f9481f19548000c34261a44&source=copy_link)
+
+</details>
+<details>
+  <summary><h3>✈️ 빅플라이 | 공항 혼잡도 예측 & 출발 시간 추천 웹앱</h3> (2024.06) </summary>
+
+  **대회**: 빅데이터 분석 자동화 서비스 개발 해커톤 **최우수상 수상**  
+  **역할**: 프론트엔드 개발 / AI 서버 연동 / 공공데이터 API 연동 / 배포  
+  **기술**: React, TypeScript, Axios, Netlify  
+
+  **주요 기능**  
+  - 실시간 공항 혼잡도 + AI 기반 출발 시간 추천  
+  - 항공편 지연·결항 예측 / 공항별 종합 정보 제공  
+  - 기상청, 공항공사, 네이버 뉴스 API 연동  
+
+  🔗 [GitHub](https://github.com/Heesu01/BigFly) | [Notion](https://www.notion.so/16c28dd58f9480e993b6e01e29144190?v=16b28dd58f9481f19548000c34261a44&source=copy_link)
 </details>
 
 
