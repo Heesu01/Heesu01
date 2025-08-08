@@ -77,6 +77,75 @@
 🔗 [GitHub](https://github.com/Heesu01/BigFly) | 🔗 [Notion](https://www.notion.so/16c28dd58f9480e993b6e01e29144190?v=16b28dd58f9481f19548000c34261a44&source=copy_link)
 
 </details>
+<details>
+  <summary><h3>📰 잉뉴스 | AI 기반 뉴스 요약·번역 플랫폼</h3> (24.11-24.12)</summary>
+
+**대회**: 2024 뉴스 빅데이터톤 해커톤 출품작  
+ **역할**: UI/UX 설계 / 프론트엔드 개발 / API 연동 / 배포  
+ **기술**: React, Axios, Netlify
+
+**주요 기능**
+
+- 뉴스 요약·번역 (한↔영) / 관련 기사 탐색
+- 맞춤형 카테고리·키워드 기반 기사 추천
+- 채팅형 요약 연습 도구 & 구문 해석 기능
+- 기사 음성 낭독 / 찜하기 기능
+
+🔗 [GitHub](https://github.com/Heesu01/EngNews) | 🔗 [Notion](https://nifty-middle-073.notion.site/AI-16c28dd58f94802e887fc8159472a080?source=copy_link)
+
+</details>
+
+<details>
+  <summary><h3>💻 코멘토 | AI 코딩 리뷰 & 학습 플랫폼</h3> (24.10-24.11)</summary>
+
+**과목**: 캡스톤디자인2
+**역할**: 프론트엔드 개발 / UI 설계 / 코드 에디터 연동 / 배포  
+ **기술**: React, Axios, Netlify
+
+**주요 기능**
+
+- GPT 기반 실시간 코드 리뷰 & 피드백 제공
+- 코드 에디터 + 문제 제출 시스템
+- 문제 검색·즐겨찾기 / 랭킹 / 마이페이지 관리
+
+🔗 [GitHub](https://github.com/Heesu01/co-mento) | 🔗 [Notion](https://nifty-middle-073.notion.site/AI-16c28dd58f9480eb8906d083be70146f?source=copy_link)
+
+</details>
+
+<details>
+  <summary><h3>🏠 명지메이트 | 기숙사 룸메이트 매칭 플랫폼</h3> (24.08)</summary>
+
+**대회**: 교내 SW 경진대회 출품작  
+ **역할**: 프론트엔드 개발 / UI 설계 / 웹소켓 실시간 채팅 구현 / 배포  
+ **기술**: React, Axios, WebSocket, Netlify
+
+**주요 기능**
+
+- 명지대 계정 기반 로그인 시스템
+- 기숙사별 게시판 + 관심글 검색 및 좋아요
+- WebSocket 기반 실시간 채팅 / 해시태그 기반 정보 공유
+- 마이페이지(글 관리, 닉네임/카테고리 설정)
+
+🔗 [GitHub](https://github.com/Heesu01/myongji_roomMate) | 🔗 [Notion](https://nifty-middle-073.notion.site/16c28dd58f948090a784dfd8beb69854?source=copy_link)
+
+</details>
+
+<details>
+  <summary><h3>🧩 멋사이드 아웃 | 성인 ADHD 집중력 관리 플랫폼 </h3> (24.07)</summary>
+
+**대회**: 멋쟁이사자처럼 해커톤 출품작  
+ **역할**: 아이디어 제안 / UI 디자인 / 프론트엔드 개발  
+ **기술**: React, Axios, Netlify
+
+**주요 기능**
+
+- 집중 세션 참여 / 뽀모도로 타이머 / 감정 일기
+- ADHD 설문 진단 및 회원 등급 분류
+- 플래너 기반 목표 관리 시스템
+
+🔗 [GitHub](https://github.com/mju-likelion/12th-hackathon-team2-web) | 🔗 [Notion](https://nifty-middle-073.notion.site/ADHD-16c28dd58f948056b564e4eb195558eb?source=copy_link)
+
+</details>
 
 <br />
 <br />
