@@ -11,6 +11,12 @@
 
 <h1  align=center> 👾 Projects 👾 </h1>
     
+  <details>
+    
+  <summary><h3> 🧩 부먹찍먹 |  퍼즐 기반 기록 플랫폼</h3> (25.08-진행중)</summary>
+
+</details>
+
 <details>
     
   <summary><h3>📍 시장에 가면 | 내 주변 전통시장 AI 탐방 서비스 </h3> (25.06-25.07)</summary>
