@@ -13,7 +13,21 @@
     
   <details>
     
-  <summary><h3> 🧩 부먹찍먹 |  퍼즐 기반 기록 플랫폼</h3> (25.08-진행중)</summary>
+  <summary><h3> 🧩 부먹찍먹 |  부산 관광 퍼즐맵 플랫폼 </h3> (25.08-25.11)</summary>
+
+🏆 한국관광공사 2025 관광데이터 활용 공모전 **장려상** 수상
+
+**역할**: 팀장 / 기획 / 프론트엔드 개발
+**기술**: React, TypeScript, Tailwind, Storybook, Kakao Maps API, TourAPI
+
+**주요 기능**
+
+- 테마 기반 관광 코스 추천 및 사용자 테마 생성
+- 구별 퍼즐맵 미션 수행 · 배지/랭킹 시스템
+- Kakao 지도 연동 · 위치/사진 인증 미션
+- 후기, 스크랩, 마이페이지 기반 여행 기록 관리
+
+🔗 [GitHub](https://github.com/Heesu01/bumeok-jjimeok) | 🔗 [Notion](https://www.notion.so/26b28dd58f9480d1b245de8e4cfefae6?source=copy_link)
 
 </details>
 
@@ -21,10 +35,10 @@
     
   <summary><h3>📍 시장에 가면 | 내 주변 전통시장 AI 탐방 서비스 </h3> (25.06-25.07)</summary>
 
-🏆 2025 문화 디지털혁신 및 데이터 활용 공모전 **장려상(3위) 수상**
+🏆 문화체육관광부 2025 문화 디지털혁신 및 데이터 활용 공모전 **3위 수상**
 
-**역할**: 프론트엔드 개발 전담  
- **기술**: React, TypeScript, Tailwind, Veo3
+**역할**: 팀장 / 기획 / 프론트엔드 개발 전담
+**기술**: React, TypeScript, Tailwind, Veo3
 
 **주요 기능**
 
@@ -36,7 +50,7 @@
 
 </details>
 <details>
-  <summary><h3>👑 두하이 | 사내 경험치 관리 웹앱</h3> (2025.01)</summary>
+  <summary><h3>👑 두하이 | 사내 경험치 관리 웹앱</h3> (25.01)</summary>
 
 🏆 블레이버스 앱 개발 경진대회 **최우수상 & 팀워크상 수상**  
  🤝 이후 **기업 요청으로 프리랜서 계약**, 사내에 정식 도입
