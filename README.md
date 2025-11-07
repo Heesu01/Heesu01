@@ -3,13 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=;Welcome+to+my+Github!;Enjoy+the+show!&font=Fira%20Code&center=true&width=380&height=50&duration=500&pause=1000&color=5151E5" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=;Welcome+to+my+Projects!;&font=Fira%20Code&center=true&width=380&height=50&duration=500&pause=1000&color=5151E5" alt="Example Usage - README Typing SVG">
 </p>
 
-<br />
-<br />
-
-<h1  align=center> 👾 Projects 👾 </h1>
     
   <details>
     
@@ -17,7 +13,7 @@
 
 🏆 한국관광공사 2025 관광데이터 활용 공모전 **장려상** 수상
 
-**역할**: 팀장 / 기획 / 프론트엔드 개발
+**역할**: 팀장 / 기획 / 프론트엔드 개발 <br/>
 **기술**: React, TypeScript, Tailwind, Storybook, Kakao Maps API, TourAPI
 
 **주요 기능**
@@ -38,6 +34,7 @@
 🏆 문화체육관광부 2025 문화 디지털혁신 및 데이터 활용 공모전 **3위 수상**
 
 **역할**: 팀장 / 기획 / 프론트엔드 개발 전담
+
 **기술**: React, TypeScript, Tailwind, Veo3
 
 **주요 기능**
@@ -184,25 +181,6 @@
 <div>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=heesu01&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
-</div>
-
-<br />
-<br />
-
-<div align="center" style="margin-top: 15px;">
-
-<h1> 👾 SNS 👾 </h1>
-<a href="https://heesu01.tistory.com" style="text-decoration: none; margin: 0 8px;">
-      <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
-    </a>
-
-<a href="https://www.instagram.com/Heesu01/" style="text-decoration: none; margin: 0 8px;">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-    <a href="mailto:rulru0413@mju.ac.kr" style="text-decoration: none; margin: 0 8px;">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-    </a>
-            
 </div>
 
 <br />
